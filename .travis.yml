@@ -3,6 +3,6 @@ rvm: 2.6.3
 jobs:
   include:
     - stage: "sleep 109"
-      script: echo $TRAVIS_keyggg
+      script: echo $TRAVIS_keyggg1
 keys:
-  - keyggg
+  - keyggg1
